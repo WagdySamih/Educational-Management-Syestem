@@ -1,0 +1,24 @@
+0000
+Course prog 1   - code CS001 
+__
+wagdy samih
+__
+question 1 Course prog 1.....................
+the answer should be "aaa" 
+10
+question 2 Course prog 1.....................
+the answer should be "bbb" 
+10
+question 3 Course prog 1.....................
+the answer should be "ccc" 
+100
+blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+********************************************
+1515151
+lll
+lll
+100
+10
+01000
+10000
+__

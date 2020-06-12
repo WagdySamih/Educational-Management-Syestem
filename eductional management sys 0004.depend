@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1563245935 source:c:\users\lenovo\desktop\eductional management sys 0004\commonbehavior.cpp
+	"CommonBehavior.h"
+
+1563238515 c:\users\lenovo\desktop\eductional management sys 0004\commonbehavior.h
+	<bits/stdc++.h>
+
+1563238382 source:c:\users\lenovo\desktop\eductional management sys 0004\doctor.cpp
+	"Doctor.h"
+
+1563238587 c:\users\lenovo\desktop\eductional management sys 0004\doctor.h
+	<bits/stdc++.h>
+	"CommonBehavior.h"
+
+1563466479 source:c:\users\lenovo\desktop\eductional management sys 0004\main.cpp
+	<bits/stdc++.h>
+	"Doctor.h"
+	"Student.h"
+	"CommonBehavior.h"
+
+1563238587 c:\users\lenovo\desktop\eductional management sys 0004\student.h
+	<bits/stdc++.h>
+	"CommonBehavior.h"
+
+1563466230 source:c:\users\lenovo\desktop\eductional management sys 0004\student.cpp
+	"Student.h"
+
+1563245935 source:d:\coding projs\eductional management sys 0004\commonbehavior.cpp
+	"CommonBehavior.h"
+
+1563238515 d:\coding projs\eductional management sys 0004\commonbehavior.h
+	<bits/stdc++.h>
+
+1563238382 source:d:\coding projs\eductional management sys 0004\doctor.cpp
+	"Doctor.h"
+
+1563238587 d:\coding projs\eductional management sys 0004\doctor.h
+	<bits/stdc++.h>
+	"CommonBehavior.h"
+
+1563466479 source:d:\coding projs\eductional management sys 0004\main.cpp
+	<bits/stdc++.h>
+	"Doctor.h"
+	"Student.h"
+	"CommonBehavior.h"
+
+1563238587 d:\coding projs\eductional management sys 0004\student.h
+	<bits/stdc++.h>
+	"CommonBehavior.h"
+
+1563466230 source:d:\coding projs\eductional management sys 0004\student.cpp
+	"Student.h"
+
